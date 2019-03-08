@@ -26,16 +26,16 @@ var update_list = function(){
 	req.onreadystatechange = function(){
 		if(req.readyState==4 && req.status == 200){
 			
-			var news = JSON.parse(req.response);
+		var news = JSON.parse(req.response);
 		}
 	};
 
-	var newsURL = "JSON/Recent News.json"
+var newsURL = "JSON/Recent News.json";
 	
-	req.open("GET", newsURL, true);
-	req.send();
+req.open("GET", newsURL, true);
+req.send();
 
-	console.log(req);
+console.log(req);
 
 
 
@@ -51,6 +51,6 @@ var update_list = function(){
 
 		var element = document.getElementById("list");
 		element.appendChild(para);
-}
+	};
 
-}
+};
