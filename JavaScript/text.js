@@ -51,6 +51,6 @@ var update_list = function(){
 
 		var element = document.getElementById("list");
 		element.appendChild(para);
-};
+}
 
 }
