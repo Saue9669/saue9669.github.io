@@ -3,6 +3,6 @@
 	"1" : ["Actuarial Exam", "Took and passed the Probability Exam in January", "CSS/Images/Probability.jpg", "CSS/Images/ProbabilityThumbnail.jpg"],
 	"2" : ["CS Club", "Joined Computer Science Club and started work on a group project. We are creating a new database for the geology department.", "CSS/Images/Geology.jpg", "CSS/Images/GeologyThumbnail.jpg"],
 	"3" : ["New Job", "Started an internship with the KNW Group as a corporate benefits anaylst, doing most of my work on medical claims anaylsis", "CSS/Images/knw.png", "CSS/Images/knwThumbnail.png"],
-	"4" : ["Java Project", "Finished work on a Java project where we were tasked to create a game in which you could choose to play against a simulated player", "CSS/Images/JavaProject.png", "CSS/Images/JavaProjectTHumbnail.png"],
+	"4" : ["Java Project", "Finished work on a Java project where we were tasked to create a game in which you could choose to play against a simulated player", "CSS/Images/JavaProject.png", "CSS/Images/JavaProjectThumbnail.png"],
 	"5" : ["Excel Project", "Started a project at work to automaticaly pull claims data from the web and update our excel spreadsheets.", "CSS/Images/excel.jpg", "CSS/Images/excelThumbnail.png" ]
 }
