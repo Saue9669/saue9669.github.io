@@ -1,0 +1,13 @@
+{
+	"headers" : ["Objectives", "Schooling", "University of St Thomas Achievements", "Mounds Park Academy Honors", "Major Studies", "Minor Studies", "Work", "Skills", "Activities"],
+	"0" : ["To begin using my studies and apply them to the actuarial science field"],
+	"1" : ["College : University of St. Thomas (2016-2020", "High School : Mounds Park Academy (2012-2016)"],
+	"2" : ["Deans List Student", "Aquinas Scholars Honors student", " 3.85 GPA"],
+	"3" : ["Student ambassador", "Honor roll student"],
+	"4" : ["Actuarial Science"],
+	"5" : ["Computer Science", "Statistics", "Mathematics"],
+	"6" : ["NFP(recently changed from the KNW Group", "Benefits Analyst", "Brief work in accounting"],
+	"7" : ["Exceptional knowledge in math up to Calculus 3, included Linear Algebra","Proficient in Excel, Java, HTML and CSS", "Personable","Quick learner "],
+	"8" : ["Frequent volunteer highlighted by a mission trip to Peru.", "State champion golfer for Mounds Park Academy. "],
+	"links" : ["https://www.stthomas.edu/", "https://www.moundsparkacademy.org/", "https://www.stthomas.edu/aquinasscholars/", "https://www.nfp.com/weve-moved/knw"]
+}
